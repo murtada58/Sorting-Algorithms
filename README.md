@@ -8,4 +8,4 @@ press space to shuffle
 
 press left arrow to decrease the array size and right arrow to increase the array size
 
-press p to enter the step mode in step mode array size can not be changed and pressing right allow will call update 
+press p to enter the step mode in step mode array size can not be changed and pressing right arrow will call update 
